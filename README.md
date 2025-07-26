@@ -6,7 +6,7 @@ This project is a fully responsive, single-page website for a flower shop, built
 
 ### 🌐 Live Demo
 
-**Check out the live version of the website:** [**Flower Shop Live Link**](https://nnewbe.github.io/faugei-shop/) 
+**Check out the live version of the website:** [**Flower Shop Live Link**](https://biditachowdhury.github.io/faugei-shop/) 
 
 ---
 
